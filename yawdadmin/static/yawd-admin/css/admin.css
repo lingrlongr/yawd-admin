@@ -1437,7 +1437,7 @@ div#id_password {
 	color: #66b768;
 }
 
-.filters div.select2-container {
+div.select2-container {
 	margin: 0 10px;
 	min-width: 180px;
 }
